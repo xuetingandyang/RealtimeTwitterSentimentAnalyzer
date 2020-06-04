@@ -2,10 +2,6 @@
 
 A realtime Twitter Sentiment Analyzer with Spark Streaming, Flume, Kafka, and Flask.
 
-[//]: <> (![Project Architecture](http://davidiscoding.com/wp-content/uploads/2019/06/Screenshot-2019-06-11-at-11.07.57-1024x582.png)
-[//]: <> (Custom Components to Stream and Filter Tweets, Custom Event Driven Source and Custom Interceptor)
-
-
 ## Data Ingesting with Flume: 
  
 Ingest and filter tweets from Twitter API 
