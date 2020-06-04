@@ -1,0 +1,12 @@
+bin/
+.idea/
+.settings/
+.cache-main
+.classpath
+.project
+*.jar
+*.iml
+*.class
+
+venv/
+target/
