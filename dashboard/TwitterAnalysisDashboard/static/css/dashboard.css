@@ -1,6 +1,7 @@
 body {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    margin: 0;
+    margin: auto;
+    background-color: #f1f1f178
 }
 
 .header {
@@ -13,25 +14,26 @@ body {
     float: left;
     width: 20%;
     text-align: center;
-    background-color: #E1E8ED;
+    background-color: #cae3f4;
     height: 100px;
 }
 
 .title {
-    background: #657786 !important;
+    background: #065cac !important;
     color: #FFF;
 }
 
 .total_counter {
-    background-color: #AAB8C2; !important;
+    background-color: #99c0ec; !important;
     text-align:center;
 }
 
 .chart_container{
-    width: 45%;
+    width: 30%;
     float: left;
     margin: 1%;
     text-align: center;
+    color: #124c7f;
 }
 
 #most_used_hashtags_container {

@@ -10,3 +10,7 @@ bin/
 
 venv/
 target/
+
+__pycache__/
+
+twittercheckpoint/
